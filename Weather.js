@@ -4,7 +4,6 @@ import { Text, TextInput, View, StyleSheet,Image, ScrollView, Card} from 'react-
 import {AntDesign} from '@expo/vector-icons'
 
 
-const key = "e740ada90ec88b9b35cf28d625c8f75c";
 const url = "https://api.openweathermap.org/data/2.5/"
 
 export default function Weather(){
